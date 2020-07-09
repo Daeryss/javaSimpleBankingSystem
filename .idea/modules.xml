@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes.iml" group="Simple_Banking_System1/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_main.iml" group="Simple_Banking_System1/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Individual taxes/Problems-Individual_taxes_test.iml" group="Simple_Banking_System1/Problems-Individual_taxes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument.iml" group="Simple_Banking_System1/Problems-The_index_of_an_argument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_main.iml" group="Simple_Banking_System1/Problems-The_index_of_an_argument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The index of an argument/Problems-The_index_of_an_argument_test.iml" group="Simple_Banking_System1/Problems-The_index_of_an_argument" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task.iml" group="Simple_Banking_System1/Simple_Banking_System-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task_main.iml" group="Simple_Banking_System1/Simple_Banking_System-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System-task_test.iml" group="Simple_Banking_System1/Simple_Banking_System-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Banking_System1.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Banking_System1.iml" group="Simple_Banking_System1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Simple_Banking_System1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Simple_Banking_System1/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Simple_Banking_System1/util" />
+    </modules>
+  </component>
+</project>
